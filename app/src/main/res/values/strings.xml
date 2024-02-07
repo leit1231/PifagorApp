@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PifagorApp</string>
+    <string name="title">Вычислить гипотенузу</string>
+    <string name="result_info">Результат:&#160;</string>
+    <string name="inputA">Введите 1 катет:&#160;</string>
+    <string name="inputB">Введите 2 катет:&#160;</string>
+    <string name="result">Результат</string>
+</resources>
